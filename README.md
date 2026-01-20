@@ -3,4 +3,4 @@ My assignments and learnings
 
 
 
-Taluk boundary,Forest,Agriculture,National highways, State highways,Railways,Waterbodies,Waterways of Bardez, Tiswadi, Mormugao in Goa, India
+Taluk boundary,Forest,Agriculture,National highways, State highways,Railways,Waterbodies,Waterways of Bardez, Tiswadi, Mormugao talukas in Goa, India
